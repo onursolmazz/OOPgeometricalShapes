@@ -44,7 +44,7 @@ class Daire implements Shape2D {
 
     public double hacim() {
 
-        return 0.0;//dikdortgenin hacmi yoktur.
+        return 0.0;//dairenin hacmi yoktur.
     }
 }
 class Kare implements Shape2D {
@@ -64,7 +64,7 @@ class Kare implements Shape2D {
 
     public double hacim() {
 
-        return 0.0;//dikdortgenin hacmi yoktur.
+        return 0.0;//karenin hacmi yoktur.
     }
 }
 
@@ -88,7 +88,7 @@ class Ucgen implements Shape2D {
 
     public double hacim() {
 
-        return 0.0;//dikdortgenin hacmi yoktur.
+        return 0.0;//ucgenin hacmi yoktur.
     }
 }
 

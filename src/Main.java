@@ -59,7 +59,7 @@ public class Main {
         System.out.println("Ucgen prizma - alan: "+ucgenPrizma.alan());
         System.out.println("Ucgen prizma - hacim: "+ucgenPrizma.hacim());
 
-        //Upcasting - Downcasting
+        //Polymorpishm
         Shape2D d = (Shape2D) new Dikdortgen(1.0,2.0);
         System.out.println("Dikdortgen hacim :"+d.hacim());
         System.out.println("Dikdortgen alan :"+d.alan());
